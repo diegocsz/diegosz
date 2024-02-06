@@ -9,7 +9,7 @@ export default function Home() {
           height="128"
           alt="the Fresh logo: a sliced lemon dripping with juice"
         />
-        <h1 class="text-4xl font-bold">Diego Salcedo Zerpa</h1>
+        <h1 class="name font-bold">Diego Salcedo Zerpa</h1>
         <p class="my-4">
           Try updating this message in the
         </p>
