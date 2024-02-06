@@ -19,10 +19,10 @@ export default function Home() {
           <code class="mx-2">./routes/index.tsx</code> file, and refresh.
         </p>
         <a href="https://github.com/diegoszdev">
-          <img src="/static/githubon.png" alt="github" srcset="" />
+          <img src="/static/githubon.png" alt="Github" srcset="" />
         </a>
         <a href="https://www.instagram.com/diegoszig/">
-          <img src="" alt="Instgram" srcset="" />
+          <img src="" alt="Instagram" srcset="" />
         </a>
         <Counter count={count} />
       </div>
