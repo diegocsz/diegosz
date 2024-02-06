@@ -12,7 +12,6 @@ export default function Home() {
         <h1 class="text-4xl font-bold">Diego Salcedo Zerpa</h1>
         <p class="my-4">
           Try updating this message in the
-          <code class="mx-2">./routes/index.tsx</code> file, and refresh.
         </p>
         <a href="https://github.com/diegoszdev">
           <img src="/static/githubon.png" alt="Github" srcset="" />
