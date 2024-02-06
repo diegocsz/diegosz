@@ -44,9 +44,10 @@ html {
   line-height: 2.5rem;
   color: white;
 }
-.my-4 {
+.textnormal {
   margin-bottom: 1rem;
   margin-top: 1rem;
+  color: white;
 }
 .mx-auto {
   margin-left: auto;

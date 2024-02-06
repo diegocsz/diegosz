@@ -10,7 +10,7 @@ export default function Home() {
           alt="the Fresh logo: a sliced lemon dripping with juice"
         />
         <h1 class="name font-bold">Diego Salcedo Zerpa</h1>
-        <p class="my-4">
+        <p class="textnormal">
           Try updating this message in the
         </p>
         <a href="https://github.com/diegoszdev">
