@@ -21,6 +21,9 @@ export default function Home() {
         <a href="https://github.com/diegoszdev">
           <img src="/static/githubon.png" alt="github" srcset="" />
         </a>
+        <a href="https://www.instagram.com/diegoszig/">
+          <img src="" alt="Instgram" srcset="" />
+        </a>
         <Counter count={count} />
       </div>
     </div>
