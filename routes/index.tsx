@@ -18,6 +18,9 @@ export default function Home() {
           Try updating this message in the
           <code class="mx-2">./routes/index.tsx</code> file, and refresh.
         </p>
+        <a href="https://github.com/diegoszdev">
+          <img src="/static/githubon.png" alt="github" srcset="" />
+        </a>
         <Counter count={count} />
       </div>
     </div>
