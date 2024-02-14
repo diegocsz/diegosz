@@ -16,6 +16,9 @@ export default function Home() {
         <a href="https://github.com/diegoszdev">
           <img src="/static/githubon.png" alt="Github" srcset="" />
         </a>
+        <a href="https://x.com/diegosunflower">
+          <img src="/static/githubon.png" alt="X" srcset="" />
+        </a>
         <a href="https://www.instagram.com/diegoszig/">
           <img src="" alt="Instagram" srcset="" />
         </a>
