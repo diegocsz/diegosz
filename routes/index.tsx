@@ -13,7 +13,7 @@ export default function Home() {
         <p class="textnormal">
           Try updating this message in the
         </p>
-        <a href="https://github.com/island">
+        <a href="https://github.com/diegoisland">
           <img src="/static/githubon.png" alt="Github" srcset="" />
         </a>
         <a href="https://x.com/diegosunflower">
